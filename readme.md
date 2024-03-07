@@ -58,6 +58,8 @@ _code is art that does something_
 
     * 介值定律
 
+#### 导数和微分
+
 ### 附录
 
 * [三角函数运算定律](./notes/函数与极限/函数的连续性和断点.md)
